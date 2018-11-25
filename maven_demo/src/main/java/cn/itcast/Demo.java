@@ -5,5 +5,10 @@ public class Demo {
         System.out.println("aaaaaa");
 		System.out.println("bbbb");
         System.out.println("ccccc");
+
+        System.out.println("idea");
+
+		System.out.println("xiaowugui");
+
     }
 }
